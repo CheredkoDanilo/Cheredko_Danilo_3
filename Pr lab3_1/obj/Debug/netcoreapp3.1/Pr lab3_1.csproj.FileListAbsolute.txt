@@ -1,0 +1,14 @@
+C:\Users\Данило\source\repos\Pr lab3_1\bin\Debug\netcoreapp3.1\Pr lab3_1.exe
+C:\Users\Данило\source\repos\Pr lab3_1\bin\Debug\netcoreapp3.1\Pr lab3_1.deps.json
+C:\Users\Данило\source\repos\Pr lab3_1\bin\Debug\netcoreapp3.1\Pr lab3_1.runtimeconfig.json
+C:\Users\Данило\source\repos\Pr lab3_1\bin\Debug\netcoreapp3.1\Pr lab3_1.runtimeconfig.dev.json
+C:\Users\Данило\source\repos\Pr lab3_1\bin\Debug\netcoreapp3.1\Pr lab3_1.dll
+C:\Users\Данило\source\repos\Pr lab3_1\bin\Debug\netcoreapp3.1\Pr lab3_1.pdb
+C:\Users\Данило\source\repos\Pr lab3_1\obj\Debug\netcoreapp3.1\Pr lab3_1.csproj.AssemblyReference.cache
+C:\Users\Данило\source\repos\Pr lab3_1\obj\Debug\netcoreapp3.1\Pr lab3_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Данило\source\repos\Pr lab3_1\obj\Debug\netcoreapp3.1\Pr lab3_1.AssemblyInfoInputs.cache
+C:\Users\Данило\source\repos\Pr lab3_1\obj\Debug\netcoreapp3.1\Pr lab3_1.AssemblyInfo.cs
+C:\Users\Данило\source\repos\Pr lab3_1\obj\Debug\netcoreapp3.1\Pr lab3_1.csproj.CoreCompileInputs.cache
+C:\Users\Данило\source\repos\Pr lab3_1\obj\Debug\netcoreapp3.1\Pr lab3_1.dll
+C:\Users\Данило\source\repos\Pr lab3_1\obj\Debug\netcoreapp3.1\Pr lab3_1.pdb
+C:\Users\Данило\source\repos\Pr lab3_1\obj\Debug\netcoreapp3.1\Pr lab3_1.genruntimeconfig.cache
